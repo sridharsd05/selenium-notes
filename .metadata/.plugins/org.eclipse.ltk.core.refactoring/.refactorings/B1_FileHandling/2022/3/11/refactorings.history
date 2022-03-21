@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Excel&apos; to &apos;A2_Excel&apos;&#x0D;&#x0A;- Original project: &apos;B1_FileHandling&apos;&#x0D;&#x0A;- Original element: &apos;B1_FileHandling/src/Excel&apos;&#x0D;&#x0A;- Renamed element: &apos;B1_FileHandling/src/A2_Excel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Excel&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Excel" name="A2_Excel" qualified="false" references="true" stamp="1646629737165" textual="false" version="1.0"/>
+</session>
